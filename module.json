@@ -17,7 +17,7 @@
    "packs": [
    {
       "name": "Wander's Guide - Magic Items",
-      "label": "Monster Manual Expanded",
+      "label": "Wander's Guide - Magic Items",
       "path": "packs/wanders-guide-magic-items.db",
       "entity": "Item",
 	  "system": "dnd5e",
@@ -25,7 +25,7 @@
     },
 	{
       "name": "Wander's Guide - Merchants",
-      "label": "Monster Manual Expanded",
+      "label": "Wander's Guide - Merchants",
       "path": "packs/wanders-guide-merchants.db",
       "entity": "Actor",
 	  "system": "dnd5e",
